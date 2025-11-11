@@ -31,19 +31,26 @@
   </ul>
 
   <h2>🏗️ Architecture</h2>
-  <pre>
-  [Global Attackers]
-          ↓
-  [Azure Honeypot VM]
-          ↓
-  [Log Analytics Workspace]
-          ↓
-  [Microsoft Sentinel]
-          ↓
-  [KQL Analysis & Alerts]
-  </pre>
+  
+  <img width="1474" height="742" alt="Screenshot 2025-11-11 174729" src="https://github.com/user-attachments/assets/ba1e305a-891a-4a5e-a6de-582160701766" />
+
+  
 
   <h2>📊 Observations & Results</h2>
+
+<img width="1917" height="845" alt="Screenshot 2025-11-06 214628" src="https://github.com/user-attachments/assets/6e5429a0-6a42-41b8-8af9-18cad64eb473" />
+
+<img width="1920" height="840" alt="Screenshot 2025-11-06 222658" src="https://github.com/user-attachments/assets/93b7d804-3066-414e-a063-7f954d964901" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 231306" src="https://github.com/user-attachments/assets/0bca77a0-4dd8-4050-b7df-47df4f503992" />
+
+
+
+<img width="1920" height="961" alt="Screenshot 2025-11-06 234013" src="https://github.com/user-attachments/assets/399da840-5352-44c9-a614-9a9ba6da0c77" />
+
+
+
+  
   <ul>
     <li>Hundreds of brute-force RDP login attempts were recorded within 24 hours of deployment.</li>
     <li>Most attacks originated from IP addresses across Asia, Eastern Europe, and North America.</li>
