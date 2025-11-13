@@ -53,7 +53,7 @@
   
   <ul>
     <li>Thousands of brute-force RDP login attempts were recorded within 24 hours of deployment.</li>
-    <li>Most attacks originated from IP addresses across Asia, Eastern Europe, and North America.</li>
+    <li>Most attacks originated from IP addresses across western Europe and few from asia and America.</li>
     <li>Frequent targets included usernames like “Administrator” and “Admin”.</li>
     <li>Peak attack activity aligned with specific regional working hours.</li>
     <li>Sentinel dashboards helped visualize top attacking countries and IP ranges.</li>
