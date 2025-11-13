@@ -33,20 +33,25 @@
   <h2>🏗️ Architecture</h2>
   
   <img width="1474" height="742" alt="Screenshot 2025-11-11 174729" src="https://github.com/user-attachments/assets/ba1e305a-891a-4a5e-a6de-582160701766" />
+  <h2>🔔 Real-Time Monitoring & Alerts</h2>
+<p>
+Implemented a real-time monitoring system using <b>Azure Livestream</b> and <b>Microsoft Sentinel automation rules</b>
+to receive instant notifications on successful and failed login attempts.
+</p>
+<ul>
+<li>Configured <b>Azure Livestream</b> to track login activity from the honeypot VM.</li>
+<li>Set up <b>custom alert rules</b> in Sentinel to trigger  notifications for login events.</li>
+<li>Enabled <b>Live dashboard streaming</b> to visualize authentication attempts in real time.</li>
+<li>Enhanced incident response capability by reducing detection time to seconds.</li>
+</ul>
+  
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 231306" src="https://github.com/user-attachments/assets/0bca77a0-4dd8-4050-b7df-47df4f503992" />
 
   
 
   <h2>📊 Observations & Results</h2>
 
-<img width="1917" height="845" alt="Screenshot 2025-11-06 214628" src="https://github.com/user-attachments/assets/6e5429a0-6a42-41b8-8af9-18cad64eb473" />
 
-<img width="1920" height="840" alt="Screenshot 2025-11-06 222658" src="https://github.com/user-attachments/assets/93b7d804-3066-414e-a063-7f954d964901" />
-
-<img width="1920" height="1020" alt="Screenshot 2025-11-06 231306" src="https://github.com/user-attachments/assets/0bca77a0-4dd8-4050-b7df-47df4f503992" />
-
-
-
-<img width="1920" height="961" alt="Screenshot 2025-11-06 234013" src="https://github.com/user-attachments/assets/399da840-5352-44c9-a614-9a9ba6da0c77" />
 
 
 
@@ -58,6 +63,14 @@
     <li>Peak attack activity aligned with specific regional working hours.</li>
     <li>Sentinel dashboards helped visualize top attacking countries and IP ranges.</li>
   </ul>
+  <img width="1917" height="845" alt="Screenshot 2025-11-06 214628" src="https://github.com/user-attachments/assets/6e5429a0-6a42-41b8-8af9-18cad64eb473" />
+
+<img width="1920" height="840" alt="Screenshot 2025-11-06 222658" src="https://github.com/user-attachments/assets/93b7d804-3066-414e-a063-7f954d964901" />
+
+
+
+
+<img width="1920" height="961" alt="Screenshot 2025-11-06 234013" src="https://github.com/user-attachments/assets/399da840-5352-44c9-a614-9a9ba6da0c77" />
 
   <h2>🧠 Key Findings</h2>
   <ul>
